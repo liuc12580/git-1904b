@@ -8,7 +8,7 @@ public class TestController {
 
     @RequestMapping("/")
     public void test(){
-
+        System.out.println("双11活动");
     }
 
 }
