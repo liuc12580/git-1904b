@@ -11,6 +11,7 @@ public class TestController {
         System.out.println("双11活动");
         System.out.println("清仓大促销，跳楼价999");
         System.out.println("双11，睡觉");
+        System.out.println("双11 祝节日快乐");
     }
 
 }
